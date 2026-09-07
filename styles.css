@@ -30,3 +30,11 @@ td {
 	width: 200px;
 	height: 200px;
 }
+
+.first, .last {
+	width: 200px;
+}
+
+.middle {
+	width: 600px;
+}
