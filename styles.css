@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#main-container {
+	min-width: 1100px;
+	background-color: #cbd6cb;
+}
+
+
+.main-image {
+	width: 300px;
+	height: 300px;
+	margin: 5px 10px;
+}
+
+table {
+	margin: 5px 10px;
+	border: 1px solid #9da59e;
+}
+
+td {
+	border: 1px solid;
+	border-color: black #9da59e #9da59e black;
+}
+
+.table-image {
+	width: 200px;
+	height: 200px;
+}
